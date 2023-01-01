@@ -8,19 +8,19 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\PC\\.nuget\\packages\\": {}
+    "C:\\Users\\patho\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PC\\source\\repos\\zombieShooter\\zombieShooter\\zombieShooter.csproj",
+      "projectUniqueName": "C:\\Users\\patho\\Source\\Repos\\Zombie-Shooter-2D\\zombieShooter\\zombieShooter.csproj",
       "projectName": "zombieShooter",
-      "projectPath": "C:\\Users\\PC\\source\\repos\\zombieShooter\\zombieShooter\\zombieShooter.csproj",
-      "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PC\\source\\repos\\zombieShooter\\zombieShooter\\obj\\",
+      "projectPath": "C:\\Users\\patho\\Source\\Repos\\Zombie-Shooter-2D\\zombieShooter\\zombieShooter.csproj",
+      "packagesPath": "C:\\Users\\patho\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\patho\\Source\\Repos\\Zombie-Shooter-2D\\zombieShooter\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\patho\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

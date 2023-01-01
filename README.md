@@ -14,11 +14,26 @@ Welcome to the **[Zombie-Shooter-2D Repo](https://github.com/pchawin40/Zombie-Sh
 
 
 # Getting Started
+## Playing the game
+1. Download and extract from .zip from [Released Version](https://personal-portfolio-cp.s3.amazonaws.com/Zombie-Shooter-2D-CP.zip)
+2. Click on zombieShooter.exe and start playing
+3. Controls are:
+
+   Up - Go up
+
+   Down - Go down
+
+   Left - Go left
+
+   Right - Go right
+
+   Spacebar - Shoot
+
 ## Installing the application
-### Dev Containers (for M1 uers)
 
 1. Make sure you have the [Microsoft Visual Studio](https://visualstudio.microsoft.com/) installed.
 2. Clone the repository (only this branch)
+
    ```bash
    git clone https://github.com/pchawin40/Zombie-Shooter-2D.git
    ```

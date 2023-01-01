@@ -11,12 +11,8 @@
         "version": "6.0.0"
       }
     ],
-    "additionalProbingPaths": [
-      "C:\\Users\\patho\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\patho\\.nuget\\packages"
-    ],
     "configProperties": {
-      "Microsoft.NETCore.DotNetHostPolicy.SetAppPaths": true
+      "System.Reflection.Metadata.MetadataUpdater.IsSupported": false
     }
   }
 }
