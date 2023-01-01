@@ -31,9 +31,11 @@ Welcome to the **[Zombie-Shooter-2D Repo](https://github.com/pchawin40/Zombie-Sh
 Gameplay
 
 (Screenshot 1)
+
 ![ZombieShooter_1](https://res.cloudinary.com/dfz7bzhoi/image/upload/v1672536348/ZombieShooter/ZombieShooter_1_esjirp.png)
 
 (Screenshot 2)
+
 ![ZombieShooter_2](https://res.cloudinary.com/dfz7bzhoi/image/upload/v1672536348/ZombieShooter/ZombieShooter_2_n6pjq5.png)
 
 Thank you for viewing!
