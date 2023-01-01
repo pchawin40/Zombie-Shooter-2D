@@ -109,7 +109,7 @@
             // pictureBox2
             // 
             this.pictureBox2.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox2.Image")));
-            this.pictureBox2.Location = new System.Drawing.Point(207, 216);
+            this.pictureBox2.Location = new System.Drawing.Point(456, 386);
             this.pictureBox2.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
             this.pictureBox2.Name = "pictureBox2";
             this.pictureBox2.Size = new System.Drawing.Size(71, 71);
@@ -121,7 +121,7 @@
             // player
             // 
             this.player.Image = ((System.Drawing.Image)(resources.GetObject("player.Image")));
-            this.player.Location = new System.Drawing.Point(207, 95);
+            this.player.Location = new System.Drawing.Point(304, 190);
             this.player.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
             this.player.Name = "player";
             this.player.Size = new System.Drawing.Size(71, 100);
@@ -132,7 +132,7 @@
             // pictureBox4
             // 
             this.pictureBox4.Image = global::zombieShooter.Properties.Resources.zleft;
-            this.pictureBox4.Location = new System.Drawing.Point(332, 105);
+            this.pictureBox4.Location = new System.Drawing.Point(611, 95);
             this.pictureBox4.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
             this.pictureBox4.Name = "pictureBox4";
             this.pictureBox4.Size = new System.Drawing.Size(71, 71);

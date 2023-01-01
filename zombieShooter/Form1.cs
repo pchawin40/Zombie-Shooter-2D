@@ -12,7 +12,7 @@ namespace zombieShooter
         string facing = "up"; // used to guide bullets
         double playerHealth = 100; // double variable called player health
         int speed = 10; // integer for player's speed
-        int ammo = 10; // integer for player's ammo at start of game
+        int ammo = 20; // integer for player's ammo at start of game
         int zombieSpeed = 2; // integer for zombie's speed
         int score = 0; // integer to hold player's score achieved through the game
         bool gameOver = false; // boolean used when game is finished (default as false)
