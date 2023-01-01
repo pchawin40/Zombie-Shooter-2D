@@ -9,7 +9,7 @@ Welcome to the **[Zombie-Shooter-2D Repo](https://github.com/pchawin40/Zombie-Sh
 - [Getting Started](#getting-started)
 - [Screenshots of Usage](#screenshots-of-usage)
 
-# Techonologies Used
+# Technologies Used
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="c-sharp" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain-wordmark.svg" alt="visual-studio" width="50"/>
 
 
